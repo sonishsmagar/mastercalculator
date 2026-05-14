@@ -27,7 +27,9 @@ migrate_working_dir/
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
+.flutter-plugins
 .flutter-plugins-dependencies
+.packages
 .pub-cache/
 .pub/
 /build/
@@ -43,6 +45,17 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/.gradle/
+
+# iOS CocoaPods
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.podspec
+
+# Android signing/config secrets
+*.jks
+*.keystore
+key.properties
 
 # Firebase
 google-services.json
