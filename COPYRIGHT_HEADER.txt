@@ -1,0 +1,31 @@
+Master Calculator - Reusable Copyright Header Templates
+
+Dart (.dart)
+/*
+ * Copyright (c) 2025-2026 Sonish Sinjali Magar.
+ * Licensed under Master Calculator Non-Commercial License v1.0.
+ * Commercial use, monetization, and commercial redistribution are prohibited
+ * without prior written permission. See LICENSE for full terms.
+ */
+
+XML / HTML (.xml, .plist, .html)
+<!--
+  Copyright (c) 2025-2026 Sonish Sinjali Magar.
+  Licensed under Master Calculator Non-Commercial License v1.0.
+  Commercial use, monetization, and commercial redistribution are prohibited
+  without prior written permission. See LICENSE for full terms.
+-->
+
+YAML (.yaml, .yml)
+# Copyright (c) 2025-2026 Sonish Sinjali Magar.
+# Licensed under Master Calculator Non-Commercial License v1.0.
+# Commercial use, monetization, and commercial redistribution are prohibited
+# without prior written permission. See LICENSE for full terms.
+
+Markdown (.md)
+<!--
+Copyright (c) 2025-2026 Sonish Sinjali Magar.
+Licensed under Master Calculator Non-Commercial License v1.0.
+Commercial use, monetization, and commercial redistribution are prohibited
+without prior written permission. See LICENSE for full terms.
+-->

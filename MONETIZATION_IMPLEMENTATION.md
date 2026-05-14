@@ -1,6 +1,8 @@
 # Master Calculator - In-App Purchase & Monetization System
 ## Implementation Complete ✅
 
+> Legal Notice (Added 2026-05-14): This document is technical implementation notes only. It does **not** grant any right to commercially use, redistribute, monetize, or re-publish this codebase. All usage rights are governed exclusively by the repository `LICENSE` file.
+
 ### Project Status: PRODUCTION READY
 
 All features have been successfully implemented with **zero critical errors** and full functionality.

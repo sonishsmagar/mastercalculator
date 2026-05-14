@@ -126,6 +126,14 @@ flutter test
 flutter run -d chrome
 ```
 
-## License
+## License & Commercial Use
 
-This project is licensed under the terms in [LICENSE](LICENSE).
+This repository is released under a custom non-commercial license.
+
+- Commercial use is not allowed without prior written permission.
+- Monetization is not allowed without prior written permission.
+- Prohibited monetization includes ads, in-app purchases, subscriptions, paid features, sponsorships, affiliate links, and other revenue-generating use.
+- App-store redistribution for commercial purposes is not allowed.
+
+See [LICENSE](LICENSE) for full terms.
+
